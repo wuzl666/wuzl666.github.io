@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title></title>
+ </head>
+ <body>
+ <h1 align="center" 
+style="color:black ; font-size:50px">命令的使用</h1>
+<ul>
+<li>grep 词X 文件A : 从文件A中找词X</li>
+<li>wc（word count）数字数</li>
+<li>tracert 列出分组经过的路由节点，以及它在IP 网络中每一跳的延迟。</li>
+<li>ping 根据域名得到相应主机的IP地址,检测网络的连通情况和测试网络速度</li>
+<li>ipconfig 获取有用的网络特定信息，还可以执行具体操作和更改网络配置</li>
+<li>cut 选取命令，就是将一段数据经过分析，取出我们想要的</li>
+<li>例: cut -d '/' -f1 cet6.txt | grep '^e' | wc</li>
+<pre style="color:black ; font-size:30px">
+以a为首字母的单词个数 cut -d '/' -f1 cet6.txt | grep '^a' | wc  367 
+以b为首字母的单词个数 cut -d '/' -f1 cet6.txt | grep '^b' | wc  274
+以c为首字母的单词个数 cut -d '/' -f1 cet6.txt | grep '^c' | wc  560
+以d为首字母的单词个数 cut -d '/' -f1 cet6.txt | grep '^d' | wc  321
+</pre>
+ </body>
+</html>
