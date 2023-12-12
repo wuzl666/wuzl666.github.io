@@ -7,6 +7,10 @@
 
 ##[20213588-20231012.html](https://wuzl666.github.io/20213588-20231012.html) 
 
+##[20213588-20231018.html](https://wuzl666.github.io/20213588-20231018.html) 
+
+##[20213588-20231108.html](https://wuzl666.github.io/20213588-20231108.html) 
+
 ##[20213588-20231122.html](https://wuzl666.github.io/20213588-20231122.html) 
 
 ##[ks.html](https://wuzl666.github.io/ks.html) 
