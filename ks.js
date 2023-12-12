@@ -2,7 +2,7 @@ var mediaData = {
   audioPath: "d:/media/mp3Files/",
   audioFiles: [
 	{fileName:"LinuxCMD-2.mp3" ,
-     titles : ["1","2","3","4","5"] ,
+     titles : ["Understanding the File System Tree","The Current Working Directory","Listing the Contents of a Directory","Changing the Current Working Directory","Summing Up"] ,
      time:[ [5,160] ,[163,780] , [783,1320] ,[1323,1430],[1433,3190]],
 	},
 	  , "LinuxCMD-1.mp3", "LinuxCMD-2.mp3", "cs1.mp3", "cs2.mp3", "cs7.mp3", "linuxCMD-3.mp3", "linuxCMD-4.mp3", "linuxCMD-5.mp3", "linuxCMD-6.mp3"
